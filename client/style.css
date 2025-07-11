@@ -1,0 +1,72 @@
+body {
+  font-family: Georgia, serif;
+  background: #fff;
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.add-btn {
+  background-color: #039be5;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+table {
+  margin: 20px auto;
+  width: 90%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+th {
+  background-color: #fff8e7;
+  font-size: 1.2rem;
+  padding: 15px;
+}
+
+td {
+  background-color: #ece5cf;
+  padding: 15px;
+  font-size: 1.1rem;
+}
+
+input {
+  width: 90%;
+  padding: 5px;
+}
+
+.action-btn {
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin: 0 2px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.edit-btn {
+  background-color: #039be5;
+}
+
+.delete-btn {
+  background-color: #e53935;
+}
+
+.save-btn {
+  background-color: #388e3c;
+}
+
+.cancel-btn {
+  background-color: #8e8e8e;
+}
